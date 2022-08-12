@@ -1,0 +1,57 @@
+body{
+	background-image: url(fundo.png);
+	background-attachment: scroll;
+}
+#imagem{
+	
+	width: 901px;
+	height: 400px;
+}
+
+#texto{ background: #c5c5b2;
+	padding: 18px;
+	 width: 866px;
+	 font-size: 22;
+	 font color: black;
+
+}	
+
+#nym{
+	background: beige;
+	width: 900px;
+	font-size: 15;
+	;
+}
+#drt{
+	text-align: center;
+	background-image: url(fundo.png);
+	width: 900px ;
+
+}
+#nyy{
+background: beige;
+	width: 900px;
+	font-size: 17;
+	;
+
+}
+#ttt{
+	background: beige;
+	width: 866px;
+	font-size: 17;
+	padding: 18px;
+}
+#ft{
+	border: 5px solid #c5c5b2;
+}	
+#bzz{
+	background: beige;
+	width: 866px;
+	font-size: 17;
+	padding: 18px;
+}
+#bz{
+	
+	text-align: right;
+}
+
